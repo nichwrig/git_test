@@ -1,3 +1,3 @@
 # git_test
 
-Hello Odin!
+the quick brown fox jumps over the lazy dog.
